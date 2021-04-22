@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Sohee's github stats](https://github-readme-stats.vercel.app/api?SoheeJeong=SoheeJeong)](https://github.com/SoheeJeong/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoheeJeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoheeJeong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoheeJeong)](https://github.com/anuraghazra/github-readme-stats)
