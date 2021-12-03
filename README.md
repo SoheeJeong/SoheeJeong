@@ -2,7 +2,6 @@
 
 **Research Interests:**
 - Computer Vision
-- Medical image analysis
 - Practical AI
 
 **Contact Information:**
