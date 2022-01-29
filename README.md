@@ -6,5 +6,6 @@
 
 **Contact Information:**
 - [email](mailto:wjdthgmlgo@korea.ac.kr)
+- [blog](https://it-note-sohee.tistory.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoheeJeong&hide=Jupyter.Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
